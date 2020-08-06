@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hi, I'm Gautam 👋🏻👨🏻‍💻
-<img src = "https://github.com/gautambagla/gautambagla/blob/master/GB_bio.gif" alt = "briefing Me alongside a very real illustration of My 24hrs" align = "middle" width = "100%>
+<img src = "https://github.com/gautambagla/gautambagla/blob/master/GB_bio.gif" alt = "briefing Me alongside a very real illustration of My 24hrs" align = "middle" width = "100%">
 Passionate about Android App Development and Cryptographic Analysis. Spearheaded teams to project exhibitions and technical fests. Proficient in a range of modern technologies including C, C++, Java, Python, AWS & Flutter.
 
 
