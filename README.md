@@ -14,5 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Alt Text](https://github.com/gautambagla/gautambagla/blob/master/GB_bio.gif)
+# Hi, I'm Gautam 👋🏻👨🏻‍💻
+<img src = "https://github.com/gautambagla/gautambagla/blob/master/GB_bio.gif" alt = "briefing Me alongside a very real illustration of My 24hrs" align = "middle">
+Passionate about Android App Development and Cryptographic Analysis. Spearheaded teams to project exhibitions and technical fests. Proficient in a range of modern technologies including C, C++, Java, Python, AWS & Flutter.
 
+
+## Connect with me on :earth_asia: :
+### <a href = "https://www.linkedin.com/in/gautambagla/"><img src ="https://lh3.googleusercontent.com/fqYJHtyzZzA4vacRzeJoB93QNvA5-mvR-8UB5oVLxdYDSTpfLp_KgYD4IqVGJUgFEJo" alt = "LinkedIn" width = "40"></a> <a href = "https://www.hackerrank.com/gautam_bagla_ec1"><img src ="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt = "LinkedIn" height = "40"></a>  <a href = "https://twitter.com/GautamBagla"><img src ="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Twitter_bird_logo_2012.svg/800px-Twitter_bird_logo_2012.svg.png" alt = "LinkedIn" height = "40"></a> <a href = "https://www.hackerearth.com/@gautambagla"><img src ="https://media-fastly.hackerearth.com/media/companies/e8e3f0f-he.png" alt = "LinkedIn" height = "40"></a>
